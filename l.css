@@ -1,0 +1,173 @@
+body,
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-image: url("https://img.freepik.com/free-photo/beautiful-scenery-summit-mount-everest-covered-with-snow-white-clouds_181624-21317.jpg?w=1060&t=st=1668364098~exp=1668364698~hmac=5fdbba833a5591a6618ac5e41b7b18bece63f56d4b634fbb95196bfe12dca590");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.android-small-24 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.flex-wrapper-one {
+  width: 100%;
+  height: 130px;
+  margin-bottom: 30.69px;
+  display: flex;
+  align-items: flex-start;
+}
+
+.chevron-left {
+  margin-right: 17.33px;
+  color: white;
+  padding: 6px 9px;
+  display: flex;
+  margin-left: 75px;
+  margin-top: 15px;
+  align-items: center;
+}
+
+.vector {
+  flex: 1;
+  color: white;
+  align-self: stretch;
+  object-fit: cover;
+  height: 35px;
+  width: 25px;
+}
+
+.conform-order {
+  font-family: "RocknRoll One";
+  align-content: center;
+  background-color: red;
+  margin-top: 85px;
+  font-size: 34px;
+  margin-left: 510px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+}
+
+.button {
+  background-color: red;
+  border-radius: 25px;
+  align-items: center;
+  margin-left: 110px;
+
+}
+
+.vector-two {
+  width: 1.21%;
+  height: 0.99%;
+  margin-bottom: 15.96px;
+  margin-left: 31.99px;
+}
+
+.flex-wrapper-two {
+  background-color: rgba(195, 243, 191, 1);
+  margin-top: -50px;
+  margin-bottom: 33px;
+  display: flex;
+  align-items: center;
+}
+
+.place-your-order {
+  font-family: "Bree Serif";
+  font-size: 30px;
+  font-weight: 400;
+  align-content: center;
+  color: var(--black);
+}
+
+.flex-wrapper-four {
+  margin-bottom: 19.69px;
+  display: flex;
+  align-items: flex-start;
+}
+
+#name {
+  font-family: Bree serif;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+  margin-right: 10.24px;
+}
+
+.rectangle-45 {
+  width: 195px;
+  height: 30px;
+  background-color: rgba(231, 230, 235, 1);
+}
+
+.flex-wrapper-five {
+  margin-bottom: 19.31px;
+  display: flex;
+  align-items: center;
+}
+
+#email-id {
+  height: 30px;
+  width: 72px;
+  font-family: "Bree Serif";
+  font-size: 18px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+  display: flex;
+  margin-right: 10.24px;
+}
+
+.flex-wrapper-six {
+  margin-bottom: 17.19px;
+  display: flex;
+  align-items: center;
+}
+
+#enquiry_form {
+  font-size: 25px;
+  font-family: sans-serif;
+  color: black;
+}
+
+#phone-no {
+  font-family: "Bree Serif";
+  font-size: 18px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+  margin-right: 10.24px;
+}
+
+.flex-wrapper-seven {
+  margin-bottom: 26px;
+  display: flex;
+  align-items: flex-start;
+}
+
+.relative-wrapper-one {
+  margin-right: 9.96px;
+  position: relative;
+}
+
+#address {
+  font-family: serif;
+  font-size: 2px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+}
+
+#enq_submit {
+  padding: 10px 30px;
+  font-size: 20px;
+  font-family: serif;
+}
